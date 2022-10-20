@@ -7,6 +7,6 @@
 - Currently Learning C++. ➕➕
 
 #### PERSONAL GOALS:
-* [ ] \ Learning C++
-* [ ] \ Making a proper game with Unity
-* [ ] \ Learning robotics
+* [ ] Learning C++
+* [ ] Making a proper game with Unity
+* [ ] Learning robotics
